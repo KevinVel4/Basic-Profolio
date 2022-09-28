@@ -123,7 +123,7 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-  background-color: #5d3eff;
+  background-color: rgb(3, 165, 3);
 }
 
 .personal__logo {
@@ -181,6 +181,7 @@ nav {
   width: 100%;
 
   /* Improving my own picture */
+
   transform: scale(1.5);
   padding-top: 8px;
 }
